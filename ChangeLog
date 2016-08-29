@@ -1,3 +1,5 @@
 2016-08-28  Mark Bucciarelli <mkbucc@gmail.com>
 
 	* gitlog2changelog.sh: New
+
+	* Makefile: New
